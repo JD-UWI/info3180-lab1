@@ -3,7 +3,14 @@ body {
   font-size: 14px;
   line-height: 1.5;
 }
-
+p  {
+  font-size: 18px;
+}
+img {
+  max-width: 250px;
+  max-height: auto;
+  border-radius: 50%;
+}
 .container {
   max-width: 960px;
   margin: 0 auto;
